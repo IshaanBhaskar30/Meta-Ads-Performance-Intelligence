@@ -10,43 +10,43 @@ Translated business requirements into KPIs, performed funnel analysis, and ident
 
 ### 📊 Key Results
 
-  216K Impressions
+  - 216K Impressions
 
-  25.4K Clicks
+  - 25.4K Clicks
 
-  1.3K Purchases
+  - 1.3K Purchases
 
-  CTR: 11.76% (Strong top-of-funnel)
+  - CTR: 11.76% (Strong top-of-funnel)
 
-  Purchase Rate: 0.61% (Conversion drop-off identified)
+  - Purchase Rate: 0.61% (Conversion drop-off identified)
 
-  Total Budget: 2.5M
+  - Total Budget: 2.5M
 
 👉 Insight: High engagement, weak lower-funnel efficiency.
 
 ### 🧠 What I Did
 
-  Designed star schema data model
+  - Designed star schema data model
 
-  Built dynamic KPIs using DAX
+  - Built dynamic KPIs using DAX
 
-  Performed funnel drop-off analysis
+  - Performed funnel drop-off analysis
 
-  Conducted audience segmentation (Gender, Age, Geography)
+  - Conducted audience segmentation (Gender, Age, Geography)
 
-  Analyzed time-based engagement trends
+  - Analyzed time-based engagement trends
 
-  Identified best-performing ad formats (Video & Stories)
+  - Identified best-performing ad formats (Video & Stories)
 
 ### 📈 Business Recommendations
 
-  Improve landing page & retargeting strategy
+  - Improve landing page & retargeting strategy
 
-  Reallocate budget toward Video ads
+  - Reallocate budget toward Video ads
 
-  Focus on Females (18–30)
+  - Focus on Females (18–30)
 
-  Schedule ads during peak engagement hours
+  - Schedule ads during peak engagement hours
 
 ### 🛠 Tools
 
